@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ph374myt9-java-springboot-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ph374myt9-java-springboot-gitops
